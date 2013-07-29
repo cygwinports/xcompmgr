@@ -1,0 +1,10 @@
+inherit xorg
+
+NAME="xcompmgr"
+VERSION=1.1.6
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="X compositing manager"
+DESCRIPTION="xcompmgr is a sample compositing manager for X servers supporting
+the XFIXES, DAMAGE, and COMPOSITE extensions.  It enables basic eye-candy
+effects."

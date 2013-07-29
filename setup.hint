@@ -1,4 +1,0 @@
-category: X11
-requires: libX11_6 libXcomposite1 libXdamage1 libXext6 libXfixes3 libXrender1
-sdesc: "X.Org Compositing manager"
-ldesc: "X.Org Compositing manager"
