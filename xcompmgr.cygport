@@ -1,7 +1,7 @@
 inherit xorg
 
 NAME="xcompmgr"
-VERSION=1.1.6
+VERSION=1.1.7
 RELEASE=1
 CATEGORY="X11"
 SUMMARY="X compositing manager"
